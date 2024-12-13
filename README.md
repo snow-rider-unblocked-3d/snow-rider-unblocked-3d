@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+**Here are some ideas to get you started:**
+
+<h3><a href="https://gamescentral.net/snow-rider-3d">CLICK TO PLAY SNOW RIDER 3D</a> </BR> </BR></h3>
 <!--
 **snow-rider-unblocked-3d/snow-rider-unblocked-3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
